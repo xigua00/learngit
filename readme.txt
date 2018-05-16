@@ -1,1 +1,1 @@
-Git is distributed version contorl system.Git is free sofrware.
+Git is distributed version contorl system.Git is free sofrware distributed under the GPL.
