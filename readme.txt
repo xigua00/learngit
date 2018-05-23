@@ -1,1 +1,1 @@
-Git is distributed version contorl system.Git is free sofrware distributed under the GPL.
+Git is distributed version contorl system.Git is free sofrware distributed under the GPL.Git has a mutable index called stage.
